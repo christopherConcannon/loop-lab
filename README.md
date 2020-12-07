@@ -3,16 +3,18 @@
 ![MIT license badge](https://img.shields.io/badge/license-MIT-green)
 
 ## Description
-Description
+Landing page for a networking site.  Includes form and modal form to allow user to sign up for services.  Features animated scroll to page sections from navbar links.
 
-##### Homescreen
-![Homescreen Screenshot](./assets/images/screenshot.png)
-##### View
-![View Screenshot](./assets/images/screenshot2.png)
-##### View
-![View Screenshot](./assets/images/screenshot3.png)
+##### Landing Page Hero View
+![Landing Page Hero View Screenshot](./assets/images/screenshot.png)
+##### Explore View
+![Explore View Screenshot](./assets/images/screenshot2.png)
+##### Create View
+![Create View Screenshot](./assets/images/screenshot3.png)
+##### Share View
+![Share View Screenshot](./assets/images/screenshot.png)
 
-Visit site [here](https://christopher-concannon.herokuapp.com/)
+Visit site [here](https://christopherconcannon.github.io/loop-lab/)
 
 ## Table of Contents
   * [Installation](#installation)
@@ -24,16 +26,16 @@ Visit site [here](https://christopher-concannon.herokuapp.com/)
   * [Questions](#questions)
   
 ## Installation
-Clone project to a directory on your local machine and cd into directory.  Run <$ npm install> to install dependencies.  See package.json for other available scripts.
+Clone project to a directory on your local machine and cd into src directory.  
 
 ## Usage
-Run <$ npm start> to launch application on localhost development server.  
+Open index.html page in browser of your choice and use navigation links to move throughout the page.  Fill out form to contact LoopLAB 
 
 ## License 
 This project is covered under the MIT license 
 
 ## Technologies 
-HTML5, CSS3, JavaScript, React, MERN Stack
+HTML5, CSS3, JavaScript, Bootstrap, SCSS
 
 ## Contributing
 To see the guidelines adopted for contributing to this project, please view the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.txt)
